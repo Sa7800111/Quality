@@ -1,0 +1,27 @@
+name: toyota-quality
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pyarrow
+  - joblib
+  - jupyterlab
+  - ipykernel
+  - fastapi
+  - uvicorn
+  - streamlit
+  - duckdb
+  - pip
+  - pip:
+      - wordcloud
+      - nltk
+      - spacy
+      - transformers
+      - sentence-transformers

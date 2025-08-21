@@ -1,0 +1,17 @@
+complaint_text,severe,cluster_tfidf
+engine stalled at highway speed lost power steering,1,1
+brake pedal to floor vehicle did not stop abs light on,1,3
+smoke from engine compartment possible fire risk,1,0
+airbag failed to deploy during collision crash reported,1,0
+sudden unintended acceleration car jumped forward hit object,1,2
+steering locked while driving near intersection crash risk,1,0
+battery overheated smoke and burning smell in cabin,1,2
+vehicle caught fire after warning light for charging system,1,3
+radio resets intermittently infotainment issue after update,0,2
+paint peeling on door minor cosmetic concern,0,1
+bluetooth connection drops sometimes with phone,0,2
+rear camera flickers but works after restart,0,2
+seat fabric wear and tear under normal use,0,2
+navigation map outdated request update from dealer,0,2
+window switch intermittent but functions after second press,0,2
+wind noise from driver door at highway speed,0,1

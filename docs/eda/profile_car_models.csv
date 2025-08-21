@@ -1,0 +1,4 @@
+,dtype,non_null,missing,missing_pct,unique
+modelYear,int64,6082,0,0.0,11
+make,object,6082,0,0.0,356
+model,object,6082,0,0.0,2153

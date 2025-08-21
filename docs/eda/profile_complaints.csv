@@ -1,0 +1,16 @@
+,dtype,non_null,missing,missing_pct,unique
+vin,object,217160,5033,2.27,79668
+manufacturer,object,222188,5,0.0,308
+odiNumber,int64,222193,0,0.0,222193
+fire,bool,222193,0,0.0,2
+numberOfInjuries,int64,222193,0,0.0,14
+numberOfDeaths,int64,222193,0,0.0,8
+crash,bool,222193,0,0.0,2
+dateOfIncident,object,222193,0,0.0,3689
+dateComplaintFiled,object,222193,0,0.0,3606
+components,object,222192,1,0.0,2168
+summary,object,222182,11,0.0,219891
+products,object,222193,0,0.0,7147
+make,object,222193,0,0.0,350
+model,object,222193,0,0.0,1835
+modelYear,int64,222193,0,0.0,11

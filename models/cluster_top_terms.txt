@@ -1,0 +1,4 @@
+Cluster 0: risk, crash, compartment, possible risk, possible, compartment possible, smoke engine, engine compartment, deploy, failed deploy, crash reported, failed, collision crash, collision, deploy collision
+Cluster 1: door, highway speed, speed, highway, door highway, noise, noise driver, wind, wind noise, driver, driver door, door minor, peeling door, cosmetic, concern
+Cluster 2: update, drops phone, phone, connection drops, bluetooth, bluetooth connection, drops, connection, rear, rear camera, flickers, camera, works, camera flickers, flickers works
+Cluster 3: light, vehicle, warning light, warning, caught warning, charging, vehicle caught, caught, light charging, stop abs, pedal, floor, pedal floor, did, floor vehicle
